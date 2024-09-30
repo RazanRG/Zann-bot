@@ -1,0 +1,3 @@
+{
+	"name": "zannBot Multi Device "
+}
